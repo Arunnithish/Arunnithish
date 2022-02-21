@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Arunnithish
+- 👋 Hello!! 
+- I’m @Arunnithish,a design-minded frontend developer focused on building beautiful interfaces and creating amazing user experiences.
 - 👀 I’m interested in Full Stack development 
 - 🌱 I’m currently learning React and Node.js
 
